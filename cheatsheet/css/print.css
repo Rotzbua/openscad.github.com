@@ -1,13 +1,16 @@
 @page {
-	size: landscape;
-	margin: 12pt;
+    size: landscape;
+    margin: 12pt;
 }
+
 body {
-	font-size: 65%;
+    font-size: 65%;
 }
+
 .fork {
-	display: none;
+    display: none;
 }
+
 section section {
-	height: auto;
+    height: auto;
 }
